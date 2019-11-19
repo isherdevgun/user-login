@@ -1,0 +1,47 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    width:600px;
+    margin: auto;
+    padding: 50px 0px 0px 0px;
+    
+
+}
+.white{
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 2px purple solid;
+    margin: auto;
+    border-radius: 25px
+}
+.purple{
+    background-color: purple;
+    color: white;
+    padding: 30px 125px 50px 125px;
+}
+img.logo{
+    width: 400px;
+    padding: 30px;
+}
+img{
+    width: 50px;
+    padding: 5px
+}
+button
+{
+    background-color: green;
+    font-size: 20px;
+    color:white;
+    padding: 5px 15px
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-family:Georgia;
+}
+.password:hover{
+    text-decoration: underline;
+    color: yellow
+}
